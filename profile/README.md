@@ -1,6 +1,6 @@
-## Thesis implemetation: Rectutizer
+## Thesis implemetation: Recruitizer
 
-Team of 3 people trying their best in collaboration and developing of complex application, named Recrutizer.
+Team of 3 people trying their best in collaboration and developing of complex application, named Recruitizer.
 
 Access to published application: **WIP WIP**
 
